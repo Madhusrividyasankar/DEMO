@@ -1,0 +1,78 @@
+To find the version- git --version
+to get help- git help
+to get specify help for command- git help command name
+to make one empty folder- git init
+to clone or make a copy- git clone (location)
+to check whether files are newly added or modified - git status
+to create new file- touch filename
+to create new file in folder- touch filename.exte
+to add in staged directory- git add filename
+
+to perform commit set these 2:
+
+to set email- git config user.email "  "
+to set username- git config user.name "  "
+
+to commit- git commit -m "message"
+
+to check that commit- git log
+to get commit in one line- git log --oneline
+
+to remove file in staged area- git rm --cached filename
+
+to display the modified data- git diff filename
+
+
+to delete the file- rm filename
+
+how to create folder- mkdir foldername
+to dlt folder- rmdir filename
+
+to list all files- ls
+
+to clear all cmd- clear
+to see content inside the file- cat filename
+
+
+to list the branch- git branch
+to create branch- git branch branchname
+(* current branch)
+
+to change current branch- git checkout branchname
+
+to delete the branch- git brancj -D branchname
+
+to pull :
+
+git pull (url path)
+
+to push:
+
+1. after changes made and commit
+2. git remove add origin (url path)
+3. git remote -v (we get fetch and push)
+4. git push -u origin master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
